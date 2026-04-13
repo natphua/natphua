@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**natphua/natphua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey! I'm Natalie! 👋
+---
+I am a sophomore at Tufts studying CS/Math, and I love solving problems. My interests include: 
+- full-stack development
+- embedded systems
+- autonomous vehicles
+- (any food for mind)
 
-Here are some ideas to get you started:
+##How I'm spending my time...
+---
+#Freebites 
+Connecting college students to free food opportunities on campus (yum)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#JumboCode
+Creating a PWA for Breaktime, a nonprofit providing services for unhoused youth 
+
++ Reading, crocheting, yoga 
+---
+I am always open to chat! Message me at my [LinkedIn](www.linkedin.com/in/nataliephua).
+
