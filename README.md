@@ -2,12 +2,12 @@
 ## Hey! I'm Natalie! 👋
 I am a junior at Tufts studying CS/Math, and I love solving problems. My interests include: 
 - full-stack development
-- embedded systems
+- cloud infrastructure
 - autonomous vehicles
 - (any food for mind) 
 
 ## How I'm spending my time...
-**Badger Meter**: integrating legacy water utility customer web portals with modernized ones 
+**Badger Meter**: building dynamic branding and AWS-driven infra for water utility web portals
 
 **Freebites**: connecting college students to free food opportunities on campus (yum)
 
