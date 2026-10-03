@@ -3,7 +3,6 @@
 I am a junior at Tufts studying CS/Math, and I love solving problems. My interests include: 
 - full-stack development
 - cloud infrastructure
-- autonomous vehicles
 - (any food for mind) 
 
 ## How I'm spending my time...
@@ -11,7 +10,7 @@ I am a junior at Tufts studying CS/Math, and I love solving problems. My interes
 
 **Freebites**: connecting college students to free food opportunities on campus (yum)
 
-**JumboCode**: creating a PWA for Breaktime, a nonprofit providing services for unhoused youth 
+**JumboCode**: leading the development of a volunteer management system for Damien's Place
 
 **Distanced from my laptop:** reading, crocheting, yoga, traveling
 
